@@ -1,0 +1,6 @@
+{
+  "name": "CSS Badge Award System",
+  "description": "Computer Systems Servicing (CSS) badge award, attendance tracker, and digital trophy case system for Grades 8, 9, and 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
